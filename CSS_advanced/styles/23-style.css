@@ -547,6 +547,10 @@ ul.row {
     text-align: right;
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
+
 .footer-address {
     color: var(--text-color);
 }
@@ -557,8 +561,4 @@ ul.row {
 
 .social-link svg {
     fill: var(--text-color);
-}
-
-.footer {
-    padding: var(--footer-padding);
 }
